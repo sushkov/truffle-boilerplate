@@ -4,6 +4,8 @@
   "description": "Boilerplate for smart-contracts development with Truffle framework",
   "author": "Vladimir Sushkov <volodya.sushkov@gmail.com>",
   "dependencies": {
-
+    "convict": "^4.2.0",
+    "dotenv": "^5.0.1",
+    "truffle-hdwallet-provider": "git+https://github.com/trufflesuite/truffle-hdwallet-provider.git"
   }
 }
