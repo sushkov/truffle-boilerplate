@@ -1,0 +1,9 @@
+{
+  "name": "truffle-boilerplate",
+  "version": "0.0.1",
+  "description": "Boilerplate for smart-contracts development with Truffle framework",
+  "author": "Vladimir Sushkov <volodya.sushkov@gmail.com>",
+  "dependencies": {
+
+  }
+}
