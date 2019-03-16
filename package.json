@@ -25,6 +25,7 @@
   "devDependencies": {
     "convict": "^4.4.1",
     "dotenv": "^7.0.0",
+    "eth-gas-reporter": "^0.1.12",
     "openzeppelin-test-helpers": "^0.2.0",
     "truffle": "^5.0.8",
     "truffle-hdwallet-provider": "^1.0.5"

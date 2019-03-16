@@ -59,6 +59,14 @@ module.exports = {
     }
   },
   mocha: {
-    useColors: true
+    useColors: true,
+    /*
+    // Gas reporter
+    reporter: 'eth-gas-reporter',
+    reporterOptions : {
+      currency: 'USD',
+      gasPrice: 3
+    }
+    */
   }
 };
