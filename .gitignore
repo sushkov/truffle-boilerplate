@@ -1,4 +1,14 @@
-### NodeJS
+*.swp
+*.swo
+
+# Runtime data
+pids
+*.pid
+*.seed
+allFiredEvents
+scTopics
+
+# NodeJS/NPM
 node_modules/
 logs
 *.log
@@ -6,5 +16,12 @@ npm-debug.log*
 .npm
 .env
 
-### Truffle
+# Truffle
 /build
+.node-xmlhttprequest-*
+
+# IntelliJ IDE
+.idea
+
+# macOS
+.DS_Store

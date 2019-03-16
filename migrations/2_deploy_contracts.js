@@ -11,8 +11,8 @@ const afterDeploy = async function () {
 */
 
 module.exports = function(deployer, network, accounts) {
-  const ownerAccount = accounts[0];
+  const owner = accounts[0];
 
-  deployer.deploy(SimpleToken, {from: ownerAccount});
+  deployer.deploy(SimpleToken, {from: owner});
 //    .then(async () => await afterDeploy());
 };
